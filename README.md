@@ -17,7 +17,6 @@
 
 👨‍💻 &nbsp;I am currently working at [Kaizen Solutions](https://kaizen-solutions.net/) in Grenoble/France as Senior Developer, Architect and CTO.\
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm currently working on an [Nimilou, a story reader Android app](https://github.com/octera/Nimilou)
 💬 &nbsp;Feel free to reach out about my work or just for some interesting discussion.\
 
 ### 🤝 &nbsp;Connect with me 
